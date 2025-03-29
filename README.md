@@ -116,15 +116,15 @@ UserManagement/
 ---
 
 ## Known Issues
-    None at the moment. Please report any issues via GitHub.
+None at the moment. Please report any issues via GitHub.
 
 ---
 
 ## License
-    This project is licensed under the MIT License.
+This project is licensed under the MIT License.
 
 ---
 
 ## Author
-    Princy262
-    GitHub Profile
+Princy262
+GitHub Profile
